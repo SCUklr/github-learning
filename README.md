@@ -2,6 +2,9 @@
 
 ***This repository is used to learn the basic operations of Github***
 
+参考教程 [Github文档](https://docs.github.com/zh/get-started/start-your-journey/hello-world)
+
+
 # 学习 GitHub 基本操作
 
 欢迎来到这个关于学习 GitHub 基本操作的教程！在这个教程中，我们将一步步地了解如何创建和使用存储库、管理分支、提交更改以及打开和合并拉取请求。让我们开始吧！
